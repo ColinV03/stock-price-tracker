@@ -38,7 +38,7 @@
   <p align="center">
     This project is to quickly visualize the stock of a company, in this case Amazon, with a Dashboard application, here using Dash by Plotly. 
     <br />
-    <a href="https://github.com/github_username/stock-price-tracker"><strong> EXPLORE THE APP »</strong></a>
+    <a href="https://stock-price-tracker-dash-app.herokuapp.com/"><strong> EXPLORE THE APP »</strong></a>
     <br /> 
     <br />
     <a href="https://github.com/github_username/stock-price-tracker">View Demo</a>
