@@ -12,6 +12,7 @@ df = pd.read_csv("Amazon.csv")
 external_stylesheets = [dbc.themes.LUX]
 
 dash_app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
 app = dash_app.server
 
 # create datatable function from dataframe
